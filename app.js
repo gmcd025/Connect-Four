@@ -1,5 +1,9 @@
 const game = new Game();
 
+alert('Welcome to Connect Four!!) 
+alert('You must get four tokens in a row either horizontally, vertically or diagonally.') 
+alert('Move tokens left or right with the side arrow keys and drop the token by pressing down!')
+
 /** 
  * Listens for click on `#begin-game` and calls startGame() on game object
  */
